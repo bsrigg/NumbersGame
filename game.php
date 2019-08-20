@@ -14,6 +14,9 @@ if(!isset($_SESSION['number'])){
     <title>Great Number Game</title>
 </head>
 <body>
+    <br/>
+    <br/>
+    <br/>
     <h1 style="text-align: center">Welcome to the Great Number Game!</h1>
     <h3 style="text-align: center">I am thinking of a number between 1 and 100</h3>
     <h3 style="text-align: center">Please take a guess!</h3>
